@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914848979348",
+    "project_id": "interview-2c230",
+    "storage_bucket": "interview-2c230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914848979348:android:708df35828049eb1b81781",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914848979348-8tgjg1735ro5sitr4mjlbd9dhc89tj8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "067108d0c97a573dbd6c987257ce386236be174d"
+          }
+        },
+        {
+          "client_id": "914848979348-hih8gkn7sn973p91tn1r8g8932684pef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8xUKwHqLZl40OtfCtSRdztQT_BCVucY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914848979348-hih8gkn7sn973p91tn1r8g8932684pef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
